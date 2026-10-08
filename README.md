@@ -2,7 +2,7 @@
 
 A simulation teaching case for MBA prescriptive and business analytics courses.
 
-Saeed Aramesh and Hossein Piri (Haskayne School of Business, University of Calgary), 2026.
+Saed Alizamir and Hossein Piri, 2026.
 
 ## Files
 
