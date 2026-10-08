@@ -2,7 +2,7 @@
 
 A simulation teaching case for MBA prescriptive and business analytics courses.
 
-Saed Alizamir and Hossein Piri, 2026.
+Hossein Piri and Saed Alizamir, 2026.
 
 ## Files
 
